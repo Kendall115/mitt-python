@@ -16,6 +16,11 @@ git clone https://github.com/Kendall115/mqtt-python.git
 cd mqtt-python
 ```
 
+3. Activate python virtual environment
+```bash
+source venv/bin/activate
+```
+
 # Usage
 
 To start a sensor, navigate to any folder and execute the command
