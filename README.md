@@ -18,7 +18,13 @@ cd mqtt-python
 
 # Usage
 
-To start a sensor, navigate to any folder and execute the command python sensors_name.py, for example: python sensor_humidity4.py. This will activate the sensor, and you will see a menu where you can choose option 1 to send a reading or option 2 to disconnect.
+To start a sensor, navigate to any folder and execute the command
+
+```python
+python sensors_name.py
+```
+
+For example: python sensor_humidity4.py. This will activate the sensor, and you will see a menu where you can choose option 1 to send a reading or option 2 to disconnect.
 
 As you send readings, they will appear in real time on the dashboard. If the sensor is not already listed, simply send a reading, and the backend will automatically create a new sensor and add the reading.
 
