@@ -1,4 +1,4 @@
-# MQTT Sensors Dashboard Backend
+# MQTT Sensors Dashboard Python
 
 This project simulates sensors readings using python and mqtt.
 
